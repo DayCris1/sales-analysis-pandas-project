@@ -50,3 +50,4 @@ print("\n FATURAMENTO POR PRODUTO")
 df['total'] = df['preco'] * df['quantidade']
 faturamento = df.groupby('produto')['total'].sum()
 print(faturamento.sort_values(ascending=False))
+

@@ -68,3 +68,4 @@ Esse tipo de análise é essencial para apoiar decisões estratégicas em negóc
 
 - Python
 - Pandas
+- VS Code
